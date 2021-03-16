@@ -5,7 +5,8 @@ import EditNavigationModal from './components/EditNavigationModal'
 function App() {
   return (
     <div className="App">
-      <EditNavigationModal />
+      <EditNavigationModal></EditNavigationModal>
+      
     </div>
   );
 }
